@@ -1,5 +1,4 @@
-# 🎮 Tic Tac Toe (Крестики-нолики) [![Kotlin Version](https://img.shields.io/badge/Kotlin-1.9.0-blue.svg)](https://kotlinlang.org) [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
+# 🎮 Tic Tac Toe (Крестики-нолики) [![Kotlin Version](https://img.shields.io/badge/Kotlin-1.9.0-blue.svg)](https://kotlinlang.org) 
 
 Простое, но мощное Android-приложение для классической игры в крестики-нолики с продвинутыми функциями статистики и истории игр.
 
